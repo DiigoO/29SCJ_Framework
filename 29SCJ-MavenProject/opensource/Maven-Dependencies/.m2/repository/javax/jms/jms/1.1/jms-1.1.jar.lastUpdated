@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 25 20:23:25 BRST 2017
+https\://maven-repository.dev.java.net/nonav/repository/.error=Could not transfer artifact javax.jms\:jms\:jar\:1.1 from/to java.net (https\://maven-repository.dev.java.net/nonav/repository)\: Cannot access https\://maven-repository.dev.java.net/nonav/repository with type legacy using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+@legacy-java.net-https\://maven-repository.dev.java.net/nonav/repository/.lastUpdated=1508970205238
+https\://repo.maven.apache.org/maven2/.lastUpdated=1508970030890
+https\://repo.maven.apache.org/maven2/.error=
